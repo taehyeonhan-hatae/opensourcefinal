@@ -3,7 +3,7 @@
 LLM-generated essay detect machine learning
 
 data is from kaggle : https://www.kaggle.com/datasets/carlmcbrideellis/llm-7-prompt-training-dataset
-	![Alt text](image.png)
+
 #### KaggleApi를 통해 carlmbrideellis/llm-7-prompt-training-dataset을 불러온다.
 ##### url: https://www.kaggle.com/datasets/carlmcbrideellis/llm-7-prompt-training-dataset
 
